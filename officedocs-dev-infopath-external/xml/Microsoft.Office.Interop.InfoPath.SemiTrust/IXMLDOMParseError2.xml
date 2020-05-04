@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMParseError2" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMParseError2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1b0a8a0fb9e951ff8220a191fe0b7e47a9dcc0d0" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569731" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXMLDOMParseError2 : Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMParseError" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1b0a8a0fb9e951ff8220a191fe0b7e47a9dcc0d0" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569731" /></Metadata><TypeSignature Language="C#" Value="public interface IXMLDOMParseError2 : Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMParseError" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXMLDOMParseError2 implements class Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMParseError" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMParseError2" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXMLDOMParseError2&#xA;Implements IXMLDOMParseError" />

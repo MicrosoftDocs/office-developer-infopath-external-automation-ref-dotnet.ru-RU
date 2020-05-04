@@ -1,13 +1,5 @@
 <Type Name="XMLNodesCollection" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.XMLNodesCollection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="c29ac49fc7f7cdf4367415a27b553d1062963a3a" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569143" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface XMLNodesCollection : Microsoft.Office.Interop.InfoPath.SemiTrust.XMLNodes" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="c29ac49fc7f7cdf4367415a27b553d1062963a3a" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569143" /></Metadata><TypeSignature Language="C#" Value="public interface XMLNodesCollection : Microsoft.Office.Interop.InfoPath.SemiTrust.XMLNodes" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract XMLNodesCollection implements class Microsoft.Office.Interop.InfoPath.SemiTrust.XMLNodes" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.XMLNodesCollection" />
   <TypeSignature Language="VB.NET" Value="Public Interface XMLNodesCollection&#xA;Implements XMLNodes" />

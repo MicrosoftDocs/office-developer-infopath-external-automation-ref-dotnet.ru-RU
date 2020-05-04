@@ -1,13 +1,5 @@
 <Type Name="MergeEventObject" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.MergeEventObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="ee244f27aa1c5fe951dbee30de87ede1f1bb771d" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20571117" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface MergeEventObject : Microsoft.Office.Interop.InfoPath.SemiTrust.MergeEvent" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="ee244f27aa1c5fe951dbee30de87ede1f1bb771d" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20571117" /></Metadata><TypeSignature Language="C#" Value="public interface MergeEventObject : Microsoft.Office.Interop.InfoPath.SemiTrust.MergeEvent" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract MergeEventObject implements class Microsoft.Office.Interop.InfoPath.SemiTrust.DocEvent, class Microsoft.Office.Interop.InfoPath.SemiTrust.DocReturnEvent, class Microsoft.Office.Interop.InfoPath.SemiTrust.MergeEvent" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.MergeEventObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface MergeEventObject&#xA;Implements MergeEvent" />

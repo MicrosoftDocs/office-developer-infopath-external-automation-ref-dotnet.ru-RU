@@ -1,13 +1,5 @@
 <Type Name="TaskPanes" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.TaskPanes">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="3b3a59f5c95f0c9a8763b3bcfd4e0359a435cd16" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569122" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface TaskPanes" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="3b3a59f5c95f0c9a8763b3bcfd4e0359a435cd16" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569122" /></Metadata><TypeSignature Language="C#" Value="public interface TaskPanes" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract TaskPanes" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.TaskPanes" />
   <TypeSignature Language="VB.NET" Value="Public Interface TaskPanes" />

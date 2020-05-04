@@ -1,13 +1,5 @@
 <Type Name="XdSignatureAppearanceType" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.XdSignatureAppearanceType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="9e6fef9509a4b3673385eedd7a02eba13e435fc7" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569129" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum XdSignatureAppearanceType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="9e6fef9509a4b3673385eedd7a02eba13e435fc7" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569129" /></Metadata><TypeSignature Language="C#" Value="public enum XdSignatureAppearanceType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed XdSignatureAppearanceType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.XdSignatureAppearanceType" />
   <TypeSignature Language="VB.NET" Value="Public Enum XdSignatureAppearanceType" />

@@ -1,13 +1,5 @@
 <Type Name="HTMLTaskPaneObject" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPaneObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="6e8eafb4595bac44ae922552fdcf71a860c0eb2b" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20571376" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface HTMLTaskPaneObject : Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPane" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="6e8eafb4595bac44ae922552fdcf71a860c0eb2b" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20571376" /></Metadata><TypeSignature Language="C#" Value="public interface HTMLTaskPaneObject : Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPane" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract HTMLTaskPaneObject implements class Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPane, class Microsoft.Office.Interop.InfoPath.SemiTrust.TaskPane" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPaneObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface HTMLTaskPaneObject&#xA;Implements HTMLTaskPane" />

@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMComment" FullName="Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMComment">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="c2a49d9481b31e205c457204a1f0681cbf45d1e7" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20568198" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXMLDOMComment : Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMCharacterData" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="c2a49d9481b31e205c457204a1f0681cbf45d1e7" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20568198" /></Metadata><TypeSignature Language="C#" Value="public interface IXMLDOMComment : Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMCharacterData" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXMLDOMComment implements class Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMCharacterData" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMComment" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXMLDOMComment&#xA;Implements IXMLDOMCharacterData" />

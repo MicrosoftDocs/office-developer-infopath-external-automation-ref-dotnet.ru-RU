@@ -1,13 +1,5 @@
 <Type Name="Certificate" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.Certificate">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4a83e8371006f307db0d34121cc36ad20a704db3" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570508" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Certificate" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4a83e8371006f307db0d34121cc36ad20a704db3" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570508" /></Metadata><TypeSignature Language="C#" Value="public interface Certificate" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Certificate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.Certificate" />
   <TypeSignature Language="VB.NET" Value="Public Interface Certificate" />

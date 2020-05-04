@@ -1,13 +1,5 @@
 <Type Name="_XDocumentEventSink2_OnLoadEventHandler" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust._XDocumentEventSink2_OnLoadEventHandler">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="aae6ca3dd71d98e0571d5ff5e2a68c3983107e90" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20568366" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public delegate void _XDocumentEventSink2_OnLoadEventHandler(DocReturnEvent pEvent);" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="aae6ca3dd71d98e0571d5ff5e2a68c3983107e90" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20568366" /></Metadata><TypeSignature Language="C#" Value="public delegate void _XDocumentEventSink2_OnLoadEventHandler(DocReturnEvent pEvent);" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed _XDocumentEventSink2_OnLoadEventHandler extends System.MulticastDelegate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust._XDocumentEventSink2_OnLoadEventHandler" />
   <TypeSignature Language="VB.NET" Value="Public Delegate Sub _XDocumentEventSink2_OnLoadEventHandler(pEvent As DocReturnEvent)" />

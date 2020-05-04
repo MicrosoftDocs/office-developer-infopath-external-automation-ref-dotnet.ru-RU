@@ -1,13 +1,5 @@
 <Type Name="DocEvent" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.DocEvent">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="73a85878496e675a3d07d6811a644003d80cd61d" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569850" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface DocEvent" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="73a85878496e675a3d07d6811a644003d80cd61d" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569850" /></Metadata><TypeSignature Language="C#" Value="public interface DocEvent" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract DocEvent" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.DocEvent" />
   <TypeSignature Language="VB.NET" Value="Public Interface DocEvent" />

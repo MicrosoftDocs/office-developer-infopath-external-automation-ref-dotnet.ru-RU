@@ -1,13 +1,5 @@
 <Type Name="HTMLTaskPaneExternal" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPaneExternal">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1bcb8cac5f0598a317c4a12452005f2b4023eac0" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20568121" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface HTMLTaskPaneExternal" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1bcb8cac5f0598a317c4a12452005f2b4023eac0" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20568121" /></Metadata><TypeSignature Language="C#" Value="public interface HTMLTaskPaneExternal" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract HTMLTaskPaneExternal" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.HTMLTaskPaneExternal" />
   <TypeSignature Language="VB.NET" Value="Public Interface HTMLTaskPaneExternal" />

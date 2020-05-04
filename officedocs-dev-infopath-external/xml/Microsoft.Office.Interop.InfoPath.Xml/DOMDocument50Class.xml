@@ -1,13 +1,5 @@
 <Type Name="DOMDocument50Class" FullName="Microsoft.Office.Interop.InfoPath.Xml.DOMDocument50Class">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a99312aeadb2be76106549319d53ac4f30fcb851" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570011" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class DOMDocument50Class : Microsoft.Office.Interop.InfoPath.Xml.DOMDocument50" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a99312aeadb2be76106549319d53ac4f30fcb851" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570011" /></Metadata><TypeSignature Language="C#" Value="public class DOMDocument50Class : Microsoft.Office.Interop.InfoPath.Xml.DOMDocument50" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi DOMDocument50Class extends System.Object implements class Microsoft.Office.Interop.InfoPath.Xml.DOMDocument50, class Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument, class Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument2, class Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument3, class Microsoft.Office.Interop.InfoPath.Xml.XMLDOMDocumentEvents_Event" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.DOMDocument50Class" />
   <TypeSignature Language="VB.NET" Value="Public Class DOMDocument50Class&#xA;Implements DOMDocument50" />

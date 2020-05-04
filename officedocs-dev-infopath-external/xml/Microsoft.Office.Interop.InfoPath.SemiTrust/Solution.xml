@@ -1,13 +1,5 @@
 <Type Name="Solution" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.Solution">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="f49727ce456834a895eb2780c173f0a5f7d8617f" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569101" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Solution" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="f49727ce456834a895eb2780c173f0a5f7d8617f" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569101" /></Metadata><TypeSignature Language="C#" Value="public interface Solution" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Solution" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.Solution" />
   <TypeSignature Language="VB.NET" Value="Public Interface Solution" />

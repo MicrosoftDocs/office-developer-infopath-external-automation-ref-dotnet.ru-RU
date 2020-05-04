@@ -1,13 +1,5 @@
 <Type Name="_XDocumentEventSink" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust._XDocumentEventSink">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="91e3f9c0e559aebe29c9e6257093dcaed519aa6a" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569178" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface _XDocumentEventSink" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="91e3f9c0e559aebe29c9e6257093dcaed519aa6a" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569178" /></Metadata><TypeSignature Language="C#" Value="public interface _XDocumentEventSink" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract _XDocumentEventSink" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust._XDocumentEventSink" />
   <TypeSignature Language="VB.NET" Value="Public Interface _XDocumentEventSink" />

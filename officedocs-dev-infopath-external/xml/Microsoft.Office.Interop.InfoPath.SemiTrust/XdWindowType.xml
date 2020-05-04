@@ -1,13 +1,5 @@
 <Type Name="XdWindowType" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.XdWindowType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a3535a4155d32e14f41e766239a4d0d49df4b145" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20567827" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum XdWindowType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a3535a4155d32e14f41e766239a4d0d49df4b145" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20567827" /></Metadata><TypeSignature Language="C#" Value="public enum XdWindowType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed XdWindowType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.XdWindowType" />
   <TypeSignature Language="VB.NET" Value="Public Enum XdWindowType" />

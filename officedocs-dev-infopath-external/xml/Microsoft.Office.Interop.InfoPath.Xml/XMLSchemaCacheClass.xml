@@ -1,13 +1,5 @@
 <Type Name="XMLSchemaCacheClass" FullName="Microsoft.Office.Interop.InfoPath.Xml.XMLSchemaCacheClass">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0bd3904f7559e9b29b4c6122d8a6a682a0815704" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569577" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class XMLSchemaCacheClass : Microsoft.Office.Interop.InfoPath.Xml.XMLSchemaCache, System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0bd3904f7559e9b29b4c6122d8a6a682a0815704" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569577" /></Metadata><TypeSignature Language="C#" Value="public class XMLSchemaCacheClass : Microsoft.Office.Interop.InfoPath.Xml.XMLSchemaCache, System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi XMLSchemaCacheClass extends System.Object implements class Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMSchemaCollection, class Microsoft.Office.Interop.InfoPath.Xml.XMLSchemaCache, class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.XMLSchemaCacheClass" />
   <TypeSignature Language="VB.NET" Value="Public Class XMLSchemaCacheClass&#xA;Implements IEnumerable, XMLSchemaCache" />

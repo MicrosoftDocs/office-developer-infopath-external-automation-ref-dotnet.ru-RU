@@ -1,13 +1,5 @@
 <Type Name="MailEnvelope" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.MailEnvelope">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2de6d6027d0ea62d0d07aa5f144b63c52a803faf" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570914" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface MailEnvelope" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2de6d6027d0ea62d0d07aa5f144b63c52a803faf" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570914" /></Metadata><TypeSignature Language="C#" Value="public interface MailEnvelope" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract MailEnvelope" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.MailEnvelope" />
   <TypeSignature Language="VB.NET" Value="Public Interface MailEnvelope" />

@@ -1,13 +1,5 @@
 <Type Name="TaskPanesEnumerator" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.TaskPanesEnumerator">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="760895ec8662de9618ee528bfac4ad22df7b31f4" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570158" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class TaskPanesEnumerator : System.Collections.IEnumerator" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="760895ec8662de9618ee528bfac4ad22df7b31f4" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570158" /></Metadata><TypeSignature Language="C#" Value="public class TaskPanesEnumerator : System.Collections.IEnumerator" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit TaskPanesEnumerator extends System.Object implements class System.Collections.IEnumerator" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.TaskPanesEnumerator" />
   <TypeSignature Language="VB.NET" Value="Public Class TaskPanesEnumerator&#xA;Implements IEnumerator" />

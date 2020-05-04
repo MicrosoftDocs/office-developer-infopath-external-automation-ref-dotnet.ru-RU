@@ -1,13 +1,5 @@
 <Type Name="SignaturesEnumerator" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.SignaturesEnumerator">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="23bf6753a77f9a968747aa951c076204d175b2ce" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569066" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class SignaturesEnumerator : System.Collections.IEnumerator" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="23bf6753a77f9a968747aa951c076204d175b2ce" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569066" /></Metadata><TypeSignature Language="C#" Value="public class SignaturesEnumerator : System.Collections.IEnumerator" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit SignaturesEnumerator extends System.Object implements class System.Collections.IEnumerator" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.SignaturesEnumerator" />
   <TypeSignature Language="VB.NET" Value="Public Class SignaturesEnumerator&#xA;Implements IEnumerator" />
