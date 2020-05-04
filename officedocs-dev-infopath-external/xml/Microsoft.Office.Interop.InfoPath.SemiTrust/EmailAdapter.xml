@@ -1,13 +1,5 @@
 <Type Name="EmailAdapter" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.EmailAdapter">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="cf4cd2666b3f1c0d2affbcb5afb6eccd2a3e397d" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20568128" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface EmailAdapter" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="cf4cd2666b3f1c0d2affbcb5afb6eccd2a3e397d" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20568128" /></Metadata><TypeSignature Language="C#" Value="public interface EmailAdapter" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract EmailAdapter" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.EmailAdapter" />
   <TypeSignature Language="VB.NET" Value="Public Interface EmailAdapter" />

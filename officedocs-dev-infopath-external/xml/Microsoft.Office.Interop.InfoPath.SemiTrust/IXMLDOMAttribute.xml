@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMAttribute" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMAttribute">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="f9c4d534c716b43b8d4d76d7ddb7492e8da68168" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20571040" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXMLDOMAttribute : Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMNode" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="f9c4d534c716b43b8d4d76d7ddb7492e8da68168" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20571040" /></Metadata><TypeSignature Language="C#" Value="public interface IXMLDOMAttribute : Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMNode" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXMLDOMAttribute implements class Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMNode" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMAttribute" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXMLDOMAttribute&#xA;Implements IXMLDOMNode" />

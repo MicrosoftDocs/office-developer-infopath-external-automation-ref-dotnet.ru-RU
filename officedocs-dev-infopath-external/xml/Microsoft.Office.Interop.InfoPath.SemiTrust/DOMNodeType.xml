@@ -1,13 +1,5 @@
 <Type Name="DOMNodeType" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.DOMNodeType">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="5d11e057e9f966ea5d2fc155f84a7d4cd8c979b8" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570746" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public enum DOMNodeType" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="5d11e057e9f966ea5d2fc155f84a7d4cd8c979b8" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570746" /></Metadata><TypeSignature Language="C#" Value="public enum DOMNodeType" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed DOMNodeType extends System.Enum" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.DOMNodeType" />
   <TypeSignature Language="VB.NET" Value="Public Enum DOMNodeType" />

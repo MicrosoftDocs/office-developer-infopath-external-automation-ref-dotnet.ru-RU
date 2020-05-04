@@ -1,13 +1,5 @@
 <Type Name="XDNetworkState" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.XDNetworkState">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="d0746b7ee4a003259e689a293d322188a24145ec" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20567939" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface XDNetworkState : Microsoft.Office.Interop.InfoPath.SemiTrust._NetworkState" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="d0746b7ee4a003259e689a293d322188a24145ec" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20567939" /></Metadata><TypeSignature Language="C#" Value="public interface XDNetworkState : Microsoft.Office.Interop.InfoPath.SemiTrust._NetworkState" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract XDNetworkState implements class Microsoft.Office.Interop.InfoPath.SemiTrust._NetworkState" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.XDNetworkState" />
   <TypeSignature Language="VB.NET" Value="Public Interface XDNetworkState&#xA;Implements _NetworkState" />

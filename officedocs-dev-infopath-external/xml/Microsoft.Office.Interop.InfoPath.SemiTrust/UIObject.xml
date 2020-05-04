@@ -1,13 +1,5 @@
 <Type Name="UIObject" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.UIObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a30e9982d15ee0581540ddd2172ca3427ff9510a" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20571292" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface UIObject : Microsoft.Office.Interop.InfoPath.SemiTrust.UI2" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a30e9982d15ee0581540ddd2172ca3427ff9510a" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20571292" /></Metadata><TypeSignature Language="C#" Value="public interface UIObject : Microsoft.Office.Interop.InfoPath.SemiTrust.UI2" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract UIObject implements class Microsoft.Office.Interop.InfoPath.SemiTrust.UI, class Microsoft.Office.Interop.InfoPath.SemiTrust.UI2" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.UIObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface UIObject&#xA;Implements UI2" />

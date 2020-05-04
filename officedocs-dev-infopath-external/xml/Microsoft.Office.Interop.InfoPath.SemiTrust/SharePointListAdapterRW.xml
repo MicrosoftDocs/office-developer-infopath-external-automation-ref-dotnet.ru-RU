@@ -1,13 +1,5 @@
 <Type Name="SharePointListAdapterRW" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.SharePointListAdapterRW">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="0a30b770e5f6773a6a5a7074bd9d3be78a94d797" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569262" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface SharePointListAdapterRW" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="0a30b770e5f6773a6a5a7074bd9d3be78a94d797" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569262" /></Metadata><TypeSignature Language="C#" Value="public interface SharePointListAdapterRW" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract SharePointListAdapterRW" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.SharePointListAdapterRW" />
   <TypeSignature Language="VB.NET" Value="Public Interface SharePointListAdapterRW" />

@@ -1,13 +1,5 @@
 <Type Name="DataDOMEvent" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.DataDOMEvent">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a9a956d5942c732608b67be84c6411f57be85ea6" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569689" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface DataDOMEvent : Microsoft.Office.Interop.InfoPath.SemiTrust.DocActionEvent" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a9a956d5942c732608b67be84c6411f57be85ea6" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569689" /></Metadata><TypeSignature Language="C#" Value="public interface DataDOMEvent : Microsoft.Office.Interop.InfoPath.SemiTrust.DocActionEvent" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract DataDOMEvent implements class Microsoft.Office.Interop.InfoPath.SemiTrust.DocActionEvent, class Microsoft.Office.Interop.InfoPath.SemiTrust.DocEvent, class Microsoft.Office.Interop.InfoPath.SemiTrust.DocReturnEvent" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.DataDOMEvent" />
   <TypeSignature Language="VB.NET" Value="Public Interface DataDOMEvent&#xA;Implements DocActionEvent" />

@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMDocument2" FullName="Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument2">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="5b26cec4a1301f7cb91923c29ce8144a7026575b" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569612" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXMLDOMDocument2 : Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="5b26cec4a1301f7cb91923c29ce8144a7026575b" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569612" /></Metadata><TypeSignature Language="C#" Value="public interface IXMLDOMDocument2 : Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXMLDOMDocument2 implements class Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMDocument2" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXMLDOMDocument2&#xA;Implements IXMLDOMDocument" />

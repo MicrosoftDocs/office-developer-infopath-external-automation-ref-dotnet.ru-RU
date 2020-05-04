@@ -1,13 +1,5 @@
 <Type Name="DataObject" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.DataObject">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="1259ac1c6a4756b3ca8efee80d6663fbb7546c81" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569640" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface DataObject" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="1259ac1c6a4756b3ca8efee80d6663fbb7546c81" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569640" /></Metadata><TypeSignature Language="C#" Value="public interface DataObject" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract DataObject" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.DataObject" />
   <TypeSignature Language="VB.NET" Value="Public Interface DataObject" />

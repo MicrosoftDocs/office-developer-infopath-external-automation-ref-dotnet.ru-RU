@@ -1,13 +1,5 @@
 <Type Name="InfoPathNamespaceAttribute" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.InfoPathNamespaceAttribute">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="5f0c6874ea1a59cf2e1e68f6a626bf97d2b494fa" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20571271" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public sealed class InfoPathNamespaceAttribute : Attribute" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="5f0c6874ea1a59cf2e1e68f6a626bf97d2b494fa" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20571271" /></Metadata><TypeSignature Language="C#" Value="public sealed class InfoPathNamespaceAttribute : Attribute" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi sealed beforefieldinit InfoPathNamespaceAttribute extends System.Attribute" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.InfoPathNamespaceAttribute" />
   <TypeSignature Language="VB.NET" Value="Public NotInheritable Class InfoPathNamespaceAttribute&#xA;Inherits Attribute" />

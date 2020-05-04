@@ -1,13 +1,5 @@
 <Type Name="XMLDOMDocumentEvents_Event" FullName="Microsoft.Office.Interop.InfoPath.Xml.XMLDOMDocumentEvents_Event">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="ae2e1cd399b14d2db8fe48ad6fb43ada1de8de1e" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20568079" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface XMLDOMDocumentEvents_Event" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="ae2e1cd399b14d2db8fe48ad6fb43ada1de8de1e" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20568079" /></Metadata><TypeSignature Language="C#" Value="public interface XMLDOMDocumentEvents_Event" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract XMLDOMDocumentEvents_Event" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.XMLDOMDocumentEvents_Event" />
   <TypeSignature Language="VB.NET" Value="Public Interface XMLDOMDocumentEvents_Event" />

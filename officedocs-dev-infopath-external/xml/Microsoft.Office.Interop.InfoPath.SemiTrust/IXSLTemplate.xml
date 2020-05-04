@@ -1,13 +1,5 @@
 <Type Name="IXSLTemplate" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.IXSLTemplate">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="221535da208fb4b8fa00f4456649ce97ed2f2e20" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569717" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXSLTemplate" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="221535da208fb4b8fa00f4456649ce97ed2f2e20" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569717" /></Metadata><TypeSignature Language="C#" Value="public interface IXSLTemplate" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXSLTemplate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.IXSLTemplate" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXSLTemplate" />

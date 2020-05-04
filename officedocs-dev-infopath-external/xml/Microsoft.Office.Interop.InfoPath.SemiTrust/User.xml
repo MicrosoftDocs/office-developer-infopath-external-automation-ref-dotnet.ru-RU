@@ -1,13 +1,5 @@
 <Type Name="User" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.User">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="fc44e9c5ace2571f8157c0aa4a380c9ce9057271" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570305" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface User" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="fc44e9c5ace2571f8157c0aa4a380c9ce9057271" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570305" /></Metadata><TypeSignature Language="C#" Value="public interface User" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract User" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.User" />
   <TypeSignature Language="VB.NET" Value="Public Interface User" />

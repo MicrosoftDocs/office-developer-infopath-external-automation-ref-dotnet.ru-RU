@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMSchemaCollection" FullName="Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMSchemaCollection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="4e6d38c215bdfd1500dc6dbc9731b3e65ae7fe10" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20568107" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXMLDOMSchemaCollection : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="4e6d38c215bdfd1500dc6dbc9731b3e65ae7fe10" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20568107" /></Metadata><TypeSignature Language="C#" Value="public interface IXMLDOMSchemaCollection : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXMLDOMSchemaCollection implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMSchemaCollection" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXMLDOMSchemaCollection&#xA;Implements IEnumerable" />

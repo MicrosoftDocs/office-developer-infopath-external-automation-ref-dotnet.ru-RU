@@ -1,13 +1,5 @@
 <Type Name="XSLTemplate" FullName="Microsoft.Office.Interop.InfoPath.Xml.XSLTemplate">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="dd0a631d1c727db4ef67dd58a2fcf48d86e40393" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20567869" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface XSLTemplate : Microsoft.Office.Interop.InfoPath.Xml.IXSLTemplate" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="dd0a631d1c727db4ef67dd58a2fcf48d86e40393" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20567869" /></Metadata><TypeSignature Language="C#" Value="public interface XSLTemplate : Microsoft.Office.Interop.InfoPath.Xml.IXSLTemplate" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract XSLTemplate implements class Microsoft.Office.Interop.InfoPath.Xml.IXSLTemplate" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.XSLTemplate" />
   <TypeSignature Language="VB.NET" Value="Public Interface XSLTemplate&#xA;Implements IXSLTemplate" />

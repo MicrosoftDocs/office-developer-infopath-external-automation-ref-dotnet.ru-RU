@@ -1,13 +1,5 @@
 <Type Name="DataObjectsCollection" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.DataObjectsCollection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="a769c3665649d43dc1cff34585e7b2cc60332760" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569654" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface DataObjectsCollection : Microsoft.Office.Interop.InfoPath.SemiTrust.DataObjects" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="a769c3665649d43dc1cff34585e7b2cc60332760" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569654" /></Metadata><TypeSignature Language="C#" Value="public interface DataObjectsCollection : Microsoft.Office.Interop.InfoPath.SemiTrust.DataObjects" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract DataObjectsCollection implements class Microsoft.Office.Interop.InfoPath.SemiTrust.DataObjects" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.DataObjectsCollection" />
   <TypeSignature Language="VB.NET" Value="Public Interface DataObjectsCollection&#xA;Implements DataObjects" />

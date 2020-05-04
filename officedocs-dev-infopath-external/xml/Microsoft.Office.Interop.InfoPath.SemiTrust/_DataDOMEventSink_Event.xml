@@ -1,13 +1,5 @@
 <Type Name="_DataDOMEventSink_Event" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust._DataDOMEventSink_Event">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="60961070f43dd1f07b30fbd215cc6d043ee39a0b" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20567694" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface _DataDOMEventSink_Event" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="60961070f43dd1f07b30fbd215cc6d043ee39a0b" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20567694" /></Metadata><TypeSignature Language="C#" Value="public interface _DataDOMEventSink_Event" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract _DataDOMEventSink_Event" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust._DataDOMEventSink_Event" />
   <TypeSignature Language="VB.NET" Value="Public Interface _DataDOMEventSink_Event" />

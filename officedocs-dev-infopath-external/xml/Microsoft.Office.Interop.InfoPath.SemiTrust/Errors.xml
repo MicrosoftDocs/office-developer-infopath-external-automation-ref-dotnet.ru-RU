@@ -1,13 +1,5 @@
 <Type Name="Errors" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.Errors">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="af0dda5f6f0d3584b3c7c025444af699e30cfe29" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20567750" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface Errors" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="af0dda5f6f0d3584b3c7c025444af699e30cfe29" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20567750" /></Metadata><TypeSignature Language="C#" Value="public interface Errors" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract Errors" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.Errors" />
   <TypeSignature Language="VB.NET" Value="Public Interface Errors" />

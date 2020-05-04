@@ -1,13 +1,5 @@
 <Type Name="_ButtonEventSink_Event" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust._ButtonEventSink_Event">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="94276cd7e6322bf1462cfdb750cdc7df9d8facc9" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569311" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface _ButtonEventSink_Event" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="94276cd7e6322bf1462cfdb750cdc7df9d8facc9" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569311" /></Metadata><TypeSignature Language="C#" Value="public interface _ButtonEventSink_Event" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract _ButtonEventSink_Event" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust._ButtonEventSink_Event" />
   <TypeSignature Language="VB.NET" Value="Public Interface _ButtonEventSink_Event" />

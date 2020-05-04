@@ -1,13 +1,5 @@
 <Type Name="PermissionEnumerator" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.PermissionEnumerator">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2f2a0411715c60136c4ace0d25bff167ea364d10" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20571187" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class PermissionEnumerator : System.Collections.IEnumerator" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2f2a0411715c60136c4ace0d25bff167ea364d10" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20571187" /></Metadata><TypeSignature Language="C#" Value="public class PermissionEnumerator : System.Collections.IEnumerator" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit PermissionEnumerator extends System.Object implements class System.Collections.IEnumerator" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.PermissionEnumerator" />
   <TypeSignature Language="VB.NET" Value="Public Class PermissionEnumerator&#xA;Implements IEnumerator" />

@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMParseErrorCollection" FullName="Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMParseErrorCollection">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="2481a2e6db2c8b6e095151214e0f6221a3d26af7" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20570459" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXMLDOMParseErrorCollection : System.Collections.IEnumerable" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="2481a2e6db2c8b6e095151214e0f6221a3d26af7" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20570459" /></Metadata><TypeSignature Language="C#" Value="public interface IXMLDOMParseErrorCollection : System.Collections.IEnumerable" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXMLDOMParseErrorCollection implements class System.Collections.IEnumerable" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.IXMLDOMParseErrorCollection" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXMLDOMParseErrorCollection&#xA;Implements IEnumerable" />

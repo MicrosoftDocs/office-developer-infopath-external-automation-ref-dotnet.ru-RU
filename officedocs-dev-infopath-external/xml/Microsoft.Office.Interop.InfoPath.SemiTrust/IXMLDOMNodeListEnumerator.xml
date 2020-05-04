@@ -1,13 +1,5 @@
 <Type Name="IXMLDOMNodeListEnumerator" FullName="Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMNodeListEnumerator">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="714665bd4c7ece4a9e06f7c04dd6b67732c5ef9b" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569920" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public class IXMLDOMNodeListEnumerator : System.Collections.IEnumerator" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="714665bd4c7ece4a9e06f7c04dd6b67732c5ef9b" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569920" /></Metadata><TypeSignature Language="C#" Value="public class IXMLDOMNodeListEnumerator : System.Collections.IEnumerator" />
   <TypeSignature Language="ILAsm" Value=".class public auto ansi beforefieldinit IXMLDOMNodeListEnumerator extends System.Object implements class System.Collections.IEnumerator" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.SemiTrust.IXMLDOMNodeListEnumerator" />
   <TypeSignature Language="VB.NET" Value="Public Class IXMLDOMNodeListEnumerator&#xA;Implements IEnumerator" />

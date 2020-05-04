@@ -1,13 +1,5 @@
 <Type Name="IXSLProcessor" FullName="Microsoft.Office.Interop.InfoPath.Xml.IXSLProcessor">
-  <Metadata>
-    <Meta Name="ms.openlocfilehash" Value="218120b257e1f85d2fc700e271fa7e3d12e38ad3" />
-    <Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" />
-    <Meta Name="ms.translationtype" Value="MT" />
-    <Meta Name="ms.contentlocale" Value="ru-RU" />
-    <Meta Name="ms.lasthandoff" Value="07/19/2018" />
-    <Meta Name="ms.locfileid" Value="20569220" />
-  </Metadata>
-  <TypeSignature Language="C#" Value="public interface IXSLProcessor" />
+  <Metadata><Meta Name="ms.openlocfilehash" Value="218120b257e1f85d2fc700e271fa7e3d12e38ad3" /><Meta Name="ms.sourcegitcommit" Value="3ed7794d144c1dcbe602012621be568d59e39ad1" /><Meta Name="ms.translationtype" Value="MT" /><Meta Name="ms.contentlocale" Value="ru-RU" /><Meta Name="ms.lasthandoff" Value="07/19/2018" /><Meta Name="ms.locfileid" Value="20569220" /></Metadata><TypeSignature Language="C#" Value="public interface IXSLProcessor" />
   <TypeSignature Language="ILAsm" Value=".class public interface auto ansi abstract IXSLProcessor" />
   <TypeSignature Language="DocId" Value="T:Microsoft.Office.Interop.InfoPath.Xml.IXSLProcessor" />
   <TypeSignature Language="VB.NET" Value="Public Interface IXSLProcessor" />
